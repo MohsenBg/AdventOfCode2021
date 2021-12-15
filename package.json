@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2021",
+  "description": "javascript code for the answer to the questions of the advent of code 2021",
+  "author": {
+    "name": "Mohsen BG",
+    "email": "moh.1380.1393@gmail.com",
+    "url": "https://github.com/MohsenBg"
+  },
+  "repository": {
+    "url": "https://github.com/MohsenBg/AdventOfCode2021"
+  }
+}
